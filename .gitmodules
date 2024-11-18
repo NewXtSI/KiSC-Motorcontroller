@@ -1,0 +1,6 @@
+[submodule "KiSC-ESP-Now-Protocol"]
+	path = KiSC-ESP-Now-Protocol
+	url = https://github.com/NewXtSI/KiSC-ESP-Now-Protocol
+[submodule "KiSC-hoverboard-protocol"]
+	path = KiSC-hoverboard-protocol
+	url = https://github.com/NewXtSI/KiSC-hoverboard-protocol
